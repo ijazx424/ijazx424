@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🥳 welxome hu gea apka 😂😁      
+- 🥳 welxome hu gea apka 😂
+-apt update     
 <!---
 ijazx424/ijazx424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
